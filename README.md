@@ -15,6 +15,19 @@ My name is Aditya. I'm a senior frontend developer at The Good Creator Co. Besid
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+### 🧐 Some Things About Me
+- 🌐 Exists somewhere on [Linkedin](www.linkedin.com/in/aditya-jaiswal-812223150), [LeetCode](https://leetcode.com/adityajaiswal71/).
+- 😄 Pronouns: He/him
+- 🖥️ Coding Environment: Dark 🕶️ + Music 🎧
+- 🏠 Hogwarts House: Gryffindor
+- 💬 Favourite Quotes: 
+
+> "If you don't wake up everyday with a burning desire to do things, you don't have enough goals." - Lou Holtz
+
+> "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
+
+> "You don't have to be great to start, but you have to start to be great"  - Zig Ziglar
 <!--
 **adityajaiswal007/adityajaiswal007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
