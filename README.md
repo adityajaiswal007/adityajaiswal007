@@ -19,7 +19,7 @@ My name is Aditya. I'm a senior frontend developer at The Good Creator Co. Besid
 </p>
 
 ### 🧐 Some Things About Me
-- 🌐 Exists somewhere on [Linkedin](www.linkedin.com/in/aditya-jaiswal-812223150), [LeetCode](https://leetcode.com/adityajaiswal71/).
+- 🌐 Exists somewhere on [Linkedin](https://www.linkedin.com/in/aditya-jaiswal-812223150), [LeetCode](https://leetcode.com/adityajaiswal71/).
 - 😄 Pronouns: He/him
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧
 - 🏠 Hogwarts House: Gryffindor
