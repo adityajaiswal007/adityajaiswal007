@@ -1,6 +1,6 @@
 ### 👋 Hello world!
 
-My name is Aditya. I'm a senior frontend developer at The Good Creator Co. Besides loving my job, I love to read books and play badminton. 
+My name is Aditya. I'm a UI-2 engineer at Acko. Besides loving my job, I love to read books and play badminton. 
 
 <h3>Things I code with</h3>
 <p>
